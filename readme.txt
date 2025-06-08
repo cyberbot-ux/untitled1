@@ -8,8 +8,6 @@ Group data by Date, Card Type, or File
 
 Show total Gross, Net, Fee, and Quantity
 
-Display charts for quick visual summary
-
 Export reports to PDF or Excel
 
 Sort reports from newest to oldest (or vice versa)
